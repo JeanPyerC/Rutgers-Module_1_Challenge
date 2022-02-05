@@ -1,4 +1,4 @@
-# Rutgers-Module_1_Challenge
+# Rutgers-Module 1 Challenge
 ## Overview of Project
 &nbsp;&nbsp;&nbsp;&nbsp; Purpose of this project is to review the theater outcomes by Launch Date and the outcomes based on goals. To analyst the data by measuring certain characteristics in order to tell a story. Doing so we are able to view Amazing Data,
 
@@ -8,7 +8,7 @@
 
 ![Theater Outcomes by Lauch Date](Module%201%20Challenge/Theater_Outcomes_vs_Launch.png)
 
-
+![Outcome vs Goal](Module%201%20Challenge/Outcome_vs_Goal.png)
 
 ## Analysis and Challenges
 &nbsp;&nbsp;&nbsp;&nbsp; The challenges I faced was when reviewing the data and the imgaes provided in thr Module...nothing was adding up. I thought it was my formula, however, after filtering the data to review, everything was looking right within my graph. The best thing to do before applying your formula to other sets of data, manually filter the column to make sure your formula is corresponding to the result you need. 
