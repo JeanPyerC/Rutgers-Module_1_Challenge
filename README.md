@@ -1,10 +1,10 @@
 # Rutgers-Module 1 Challenge
 ## Overview of Project
-&nbsp;&nbsp;&nbsp;&nbsp; Purpose of this project is to review the theater outcomes by Launch Date and the outcomes based on goals. To analyst the data by measuring certain characteristics in order to tell a story. Doing so we are able to view Amazing Data,
+&nbsp;&nbsp;&nbsp;&nbsp; Purpose of this project is to review the theater outcomes by launch date and the outcomes based on goals. To analyze the data by measuring certain characteristics in order to tell a story, and to create a graph to better help visualize. Below you can view the graphs as I describe what is going on. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;By viewing the *Theater Outcomes by Lauch Date*, you can view many things about the image. The data shows that during the spring, we have a high number of Succesful startups, and a high number of people participating. You can also see a the data points declining after spring. This could be considered a seasonal trend, meaning during the spring we have a high number of kickstarters, however during the winter or fall, we have a low number.  
+&nbsp;&nbsp;&nbsp;&nbsp;By viewing the *Theater Outcomes by Lauch Date*, you can view many things about the image. The data shows that during the spring, we have a high number of successful startups, and a high number of people participating. You can also see the data points declining after spring. This could be considered a seasonal trend, meaning during the spring we have a high number of kickstarters, however during the winter or fall, we have a low number.  
 
-&nbsp;&nbsp;&nbsp;&nbsp;By viewing *Outcomes based on Goal*, you can view the number of success rates based on goals. For example, if your goal is above $25,000, you have a small chance in achieving your goal. IF your goal is below $25,000, you have a better chance in achieving your goal. This can be a useful tool when looking into trendsto help clients achieve their goal.  
+&nbsp;&nbsp;&nbsp;&nbsp;By viewing *Outcomes based on Goal* by subcategory *Plays*, you can view the number of success rates based on that one subcategory. For example, if your goal is above $25,000, you have a small chance in achieving your goal. If your goal is below $25,000, you have a better chance in achieving your goal. This can be a useful tool to show others when they want to start their own kickstater related within that feild.
 
 ![Theater Outcomes by Lauch Date](Module%201%20Challenge/Theater_Outcomes_vs_Launch.png)
 
@@ -20,7 +20,7 @@
 
 
 **2. What can you conclude about the Outcomes based on Goals?**  
-  - There are more projects between the gaol of $1,000 to $4,999. Anything over $50,000 you have a 17% chance of succedding. 
+  - There are more projects between the gaol of $1,000 to $4,999. Anything over $50,000 you have a 17% chance of succeeding. 
 
 **3. What are some limitations of this dataset?**  
   - Personally speaking, I don't see a limitation. This gives you everything about the Kickstarter projects. When it started, the goal, the pledged, the number of people who dodnated, when it ended.  
